@@ -1,0 +1,12 @@
+body{
+    background-image: url(../img/bob.jpg);
+    color:aqua;
+}
+
+h1{
+    color: deeppink;
+    background-color: hotpink;
+    width: 50%;
+    text-align: center;
+    margin:auto;
+}
