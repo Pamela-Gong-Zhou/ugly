@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Gaegu&family=Mr+Dafoe&display=swap')
+
+html{
+    font-size: 16em;
+}
+
 body{
     background-image: url(../img/bob.jpg);
     color:aqua;
@@ -9,4 +15,32 @@ h1{
     width: 50%;
     text-align: center;
     margin:auto;
+    font-family: "Mr Dafoe", cursive;
+    font-size: 16em;
+}
+
+#brown{
+    color: #4a412a;
+    background-color:#672d2d;
+    width: 50%;
+    font-family: "Mr Dafoe", cursive;
+    font-size: 8em;
+    margin-left: 2em;
+}
+
+#neon{
+    color: #00FFFF;
+    background-color:#00FF00;
+    width: 50%;
+    font-family: "Mr Dafoe", cursive;
+    font-size: 8em;
+}
+
+#pink{
+    color: #FF0000;
+    background-color:#FF00CC;
+    width: 50%;
+    font-family: "Mr Dafoe", cursive;
+    font-size: 8em;
+    margin-left: 4em
 }
